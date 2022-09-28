@@ -15,11 +15,13 @@
   1) 메인페이지 (+ 헤더 & 푸터) <br>
      담당자 : 팀원1 <br>
      구성 <br>
-     - 전체적인 CSS(색상,  간격, 글꼴, 이미지, 애니메이션) <br>
-     - 최신 리뷰, 최다 좋아요 리뷰, 추천 식당 AJAX <br>
-     - 헤더, 푸터, 사이드바 (각 페이지로 경로 설정) <br>
-     - 검색 기능 <br>
- 
+     <ul>
+       <li> 전체적인 CSS(색상,  간격, 글꼴, 이미지, 애니메이션) </li>
+       <li> 최신 리뷰, 최다 좋아요 리뷰, 추천 식당 AJAX </li>
+       <li> 헤더, 푸터, 사이드바 (각 페이지로 경로 설정) </li>
+       <li> 검색 기능 </li>
+     </ul>
+     
 ![메인](https://user-images.githubusercontent.com/107300167/192664111-77ed11f3-415f-47d6-957f-8edd272d4169.jpg) <br>
 ![푸터](https://user-images.githubusercontent.com/107300167/192664141-b2ec6283-f700-4a89-9a0f-bd9faba32b99.jpg) <br>
      
