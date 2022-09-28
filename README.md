@@ -31,7 +31,7 @@
        담당자 :  팀원2 <br>
        구성 <br> 
       <ul>
-        <li> 카카오, 네이버, 구글 간편 로그인 </li>
+        <li> 카카오, 네이버, 구글 간편 로그인 API </li>
         <li> 비밀번호 암호화, 인증메일 발송 </li>
         <li> (회원가입) 이메일, 비밀번호 중복확인 </li>
         <li> (관리자 페이지) 회원관리 (글 삭제, 회원 삭제) </li>
@@ -46,6 +46,28 @@
 ![join](https://user-images.githubusercontent.com/107300167/192667714-e6c27eae-364e-48ce-8753-b26c962470e9.jpg)
 
 ![change_passwd](https://user-images.githubusercontent.com/107300167/192667736-8cdb32dc-dc27-4858-ab5f-4e34a51aafac.jpg) <br>
+
+
+<hr>
+  3. 리뷰 <br>
+     담당자 : 팀원3, 4 <br>
+     구성 <br>
+     <ul>
+       <li>식당 정보 및 리뷰 글</li>
+       <li>다음 주소 API, 카카오 지도 API</li>
+       <li>리뷰글과 식당 저오의 연동 (평균 별점, AJAX로 식당 불러오기</li>
+       <li>식당 카테고리, 리뷰 태그</li>
+       <li>리뷰 좋아요, 댓글</li>
+       <li>식당, 리뷰 정보 지도에 출력</li>
+      </ul>
+      
+![어맛리뷰](https://user-images.githubusercontent.com/107300167/192669781-81f57625-d407-42d0-8e36-97143282d647.jpg)
+
+![식당리스트](https://user-images.githubusercontent.com/107300167/192669804-b1efadc7-2bc4-4c51-937d-5251db428be3.jpg)
+
+![3](https://user-images.githubusercontent.com/107300167/192669820-7fb6a265-0a65-477f-8732-e82145e0abc9.jpg)
+
+
       
       
       
