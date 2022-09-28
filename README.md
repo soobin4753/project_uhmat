@@ -72,8 +72,8 @@
 
 <hr>
   <b>4. 커뮤니티 & 이벤트 </b> <br>
-     담당자 : 팀원5 - 커뮤니티 tmi게시판, 룰렛
-             우수빈 - 커뮤니티 mate, recipe 게시판
+     담당자 : 팀원5 - 커뮤니티 tmi게시판, 룰렛 <br>
+             우수빈 - 커뮤니티 mate, recipe 게시판 <br>
      구성 <br>
      <ul>
        <li>mate, tmi, recipe 용도에 따른 게시판 (글 쓰기, 수정, 삭제, 검색, 댓글, 대댓글)</li>
@@ -82,8 +82,6 @@
        <li>룰렛</li>
       </ul>
       
-![community](https://user-images.githubusercontent.com/107300167/192671438-2b5577c4-2dc7-416c-8536-7d33e2990ffa.jpg)
-
 ![community1](https://user-images.githubusercontent.com/107300167/192671456-4e6c7efb-e227-4081-8130-d1a50d27c96e.jpg)
 
 ![community2](https://user-images.githubusercontent.com/107300167/192671480-f429f95f-0586-4f83-9795-a8b745daff5d.jpg)
@@ -91,6 +89,24 @@
 ![community3](https://user-images.githubusercontent.com/107300167/192671495-1c4a6fc2-d820-48ba-b4be-09bc8edb7980.jpg)
 
 ![룰렛](https://user-images.githubusercontent.com/107300167/192671508-61b4dba5-da4b-4b49-be7a-c253ee0ce5d3.jpg)
+
+
+<hr>
+  <b>5. 고객센터</b> <br>
+     담당자 : 팀원7 <br>
+     구성 <br>
+     <ul>
+       <li>FAQ와 공지사항</li>
+       <li>카테고리별 탭 나눔</li>
+       <li>전체 검색 및 내용, 제목 선택 검색 기능</li>
+       <li>관리자 댓글</li>
+     </ul>
+     
+![faq1](https://user-images.githubusercontent.com/107300167/192673409-84653a7a-3022-4af5-a6f3-c7f39667c07b.jpg)
+
+![faq2](https://user-images.githubusercontent.com/107300167/192673426-f1df1cd5-7a39-4ebc-9cb7-6bb629580067.jpg)
+
+![faq3](https://user-images.githubusercontent.com/107300167/192673445-b4e8019f-2f1e-4e6d-a5ef-d17af0d2cd20.jpg)
 
 
       
