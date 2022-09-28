@@ -25,13 +25,14 @@
 <hr>
    2) 회원가입/ 로그인 <br>
       담당자 :  팀원2 <br>
-![login](https://user-images.githubusercontent.com/107300167/192667651-0d2b80bc-52a7-402a-9f6c-6c80c2c2b71f.jpg)
+
+![login](https://user-images.githubusercontent.com/107300167/192667871-e6af975b-0fa7-4fcc-a997-6623b41897f2.jpg)
 
 ![email](https://user-images.githubusercontent.com/107300167/192667694-4c6448e8-3b9b-4c48-9687-08b670eae7da.jpg)
 
 ![join](https://user-images.githubusercontent.com/107300167/192667714-e6c27eae-364e-48ce-8753-b26c962470e9.jpg)
 
-![change_passwd](https://user-images.githubusercontent.com/107300167/192667736-8cdb32dc-dc27-4858-ab5f-4e34a51aafac.jpg)
+![change_passwd](https://user-images.githubusercontent.com/107300167/192667736-8cdb32dc-dc27-4858-ab5f-4e34a51aafac.jpg) <br>
       구성 <br> 
       - 카카오, 네이버, 구글 간편 로그인 <br>
       - 비밀번호 암호화, 인증메일 발송 <br>
