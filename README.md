@@ -70,6 +70,29 @@
 ![3](https://user-images.githubusercontent.com/107300167/192669820-7fb6a265-0a65-477f-8732-e82145e0abc9.jpg)
 
 
+<hr>
+  <b>4. 커뮤니티 & 이벤트 </b> <br>
+     담당자 : 팀원5 - 커뮤니티 tmi게시판, 룰렛
+             우수빈 - 커뮤니티 mate, recipe 게시판
+     구성 <br>
+     <ul>
+       <li>mate, tmi, recipe 용도에 따른 게시판 (글 쓰기, 수정, 삭제, 검색, 댓글, 대댓글)</li>
+       <li>recipe 페이지 첨부파일 최대 5개 + 이미지 슬라이딩</li>
+       <li>배너, 프로필 아이콘 출력</li>
+       <li>룰렛</li>
+      </ul>
+      
+![community](https://user-images.githubusercontent.com/107300167/192671438-2b5577c4-2dc7-416c-8536-7d33e2990ffa.jpg)
+
+![community1](https://user-images.githubusercontent.com/107300167/192671456-4e6c7efb-e227-4081-8130-d1a50d27c96e.jpg)
+
+![community2](https://user-images.githubusercontent.com/107300167/192671480-f429f95f-0586-4f83-9795-a8b745daff5d.jpg)
+
+![community3](https://user-images.githubusercontent.com/107300167/192671495-1c4a6fc2-d820-48ba-b4be-09bc8edb7980.jpg)
+
+![룰렛](https://user-images.githubusercontent.com/107300167/192671508-61b4dba5-da4b-4b49-be7a-c253ee0ce5d3.jpg)
+
+
       
       
       
