@@ -14,6 +14,7 @@
     <ul>
       <li>YELP - https://www.yelp.com/</li>
     </ul>
+    
   <hr>
 
 <b>페이지별 주요 기능</b> <br>
