@@ -11,9 +11,8 @@
      [이벤트]   어맛 룰렛 : 음식 고르기 힘든 사용자를 위한 룰렛 <br>
   
   3) 어맛 참고 사이트
-    <ul>
-      <li>YELP - https://www.yelp.com/</li>
-    </ul>
+     YELP - https://www.yelp.com/
+    
     
   <hr>
 
