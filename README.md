@@ -46,8 +46,22 @@
     <td>Google Drive, GitHub, Notion, Kakao Talk, Gather Town</td>
   </tr>
 </table>
-<hr>
 
+<hr>
+<b>MVC패턴 사용</b> <br>
+1) action - Action 클래스(= Controller 역할)
+2) controller - FrontController 클래스(= 초기 진입점)
+3) dao - 자바빈 중 비즈니스 로직 처리 역할(= DB 작업)을 수행할 DAO 클래스
+4) db - 데이터베이스 연결 작업 등을 수행하는 JdbcUtil 클래스
+5) svc - Service 클래스(DB 작업 처리 결과 판별 및 트랜잭션 처리 담당)
+6) vo - 자바빈 중 데이터 저장 역할을 수행할 XXXBean 클래스(= DTO = VO)
+
+<hr>
+<b>.jar 파일</b> <br>
+
+![화면 캡처 2022-10-03 100847](https://user-images.githubusercontent.com/107300167/193485467-2f2a2fe6-d98a-4ee2-889a-fc00457d01ee.jpg)
+
+<hr>
 <b>페이지별 주요 기능</b> <br>
 
   <b>1. 메인페이지 (+ 헤더 & 푸터)</b> <br>
