@@ -14,6 +14,38 @@
      YELP - https://www.yelp.com/
     
   <hr>
+  
+ <b>개발 환경</b> <br> 
+ <table>
+  <tr>
+    <th>개발환경</th>
+    <td>Java(JDK 1.8), JSP, JavaScript, jQuery, SQL, CSS, Bootstrap</td>
+  </tr>
+  <tr>
+    <th>서버</th>
+    <td>Apache tomcat 8.0</td>
+  </tr>
+  <tr>
+    <th>DB</th>
+    <td>MySQL</td>
+  </tr>
+  <tr>
+    <th>통합개발환경(IDE)</th>
+    <td>Eclipse 2020 – 03</td>
+  </tr>
+  <tr>
+    <th>사용 API</th>
+    <td>Naver Login, Google Login, Kakao Login, Kakao Map, Daum 주소 API</td>
+  </tr>
+  <tr>
+    <th>형상 관리</th>
+    <td>Git</td>
+  </tr>
+  <tr>
+    <th>협업 도구</th>
+    <td>Google Drive, GitHub, Notion, Kakao Talk, Gather Town</td>
+  </tr>
+</table>
 
 <b>페이지별 주요 기능</b> <br>
 
