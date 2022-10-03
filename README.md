@@ -1,3 +1,11 @@
+<b style="font-size:15px;">목차</b> <br>
+1. 프로젝트 소개 <br>
+2. 개발 환경 <br>
+3. MVC패턴, 필요한.jar 파일 <br>
+4. 페이지별 기능 <br> 
+5. 프로젝트 소감 <br>
+
+<hr>
 <b>어맛(어디가 맛집이고) 소개</b> <br>
   1) 어맛 메인 서비스 - 서면의 맛집 리뷰 공유 서비스 <br>
                         어맛리뷰 : 음식점 리뷰들이 한 곳에 모여있는 곳 <br>
@@ -49,12 +57,12 @@
 
 <hr>
 <b>MVC패턴 사용</b> <br>
-1) action - Action 클래스(= Controller 역할)
-2) controller - FrontController 클래스(= 초기 진입점)
-3) dao - 자바빈 중 비즈니스 로직 처리 역할(= DB 작업)을 수행할 DAO 클래스
-4) db - 데이터베이스 연결 작업 등을 수행하는 JdbcUtil 클래스
-5) svc - Service 클래스(DB 작업 처리 결과 판별 및 트랜잭션 처리 담당)
-6) vo - 자바빈 중 데이터 저장 역할을 수행할 XXXBean 클래스(= DTO = VO)
+1) action - Action 클래스(= Controller 역할) <br>
+2) controller - FrontController 클래스(= 초기 진입점) <br>
+3) dao - 자바빈 중 비즈니스 로직 처리 역할(= DB 작업)을 수행할 DAO 클래스 <br>
+4) db - 데이터베이스 연결 작업 등을 수행하는 JdbcUtil 클래스 <br>
+5) svc - Service 클래스(DB 작업 처리 결과 판별 및 트랜잭션 처리 담당) <br>
+6) vo - 자바빈 중 데이터 저장 역할을 수행할 XXXBean 클래스(= DTO = VO) <br>
 
 <hr>
 <b>.jar 파일</b> <br>
