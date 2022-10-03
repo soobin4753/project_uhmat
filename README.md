@@ -1,4 +1,4 @@
-<b style="font-size:15px;">목차</b> <br>
+<b style="font-size:20px;">목차</b> <br>
 1. 프로젝트 소개 <br>
 2. 개발 환경 <br>
 3. MVC패턴, 필요한.jar 파일 <br>
