@@ -57,20 +57,6 @@
 </table>
 
 <hr>
-<b>MVC패턴 사용</b> <br>
-1) action - Action 클래스(= Controller 역할) <br>
-2) controller - FrontController 클래스(= 초기 진입점) <br>
-3) dao - 자바빈 중 비즈니스 로직 처리 역할(= DB 작업)을 수행할 DAO 클래스 <br>
-4) db - 데이터베이스 연결 작업 등을 수행하는 JdbcUtil 클래스 <br>
-5) svc - Service 클래스(DB 작업 처리 결과 판별 및 트랜잭션 처리 담당) <br>
-6) vo - 자바빈 중 데이터 저장 역할을 수행할 XXXBean 클래스(= DTO = VO) <br>
-
-<hr>
-<b>.jar 파일</b> <br>
-
-![화면 캡처 2022-10-03 100847](https://user-images.githubusercontent.com/107300167/193485467-2f2a2fe6-d98a-4ee2-889a-fc00457d01ee.jpg)
-
-<hr>
 <b>페이지별 주요 기능</b> <br>
 
   <b>1. 메인페이지 (+ 헤더 & 푸터)</b> <br>
@@ -145,6 +131,8 @@
 ![community2](https://user-images.githubusercontent.com/107300167/192671480-f429f95f-0586-4f83-9795-a8b745daff5d.jpg)
 
 ![community3](https://user-images.githubusercontent.com/107300167/192671495-1c4a6fc2-d820-48ba-b4be-09bc8edb7980.jpg)
+
+![1](https://user-images.githubusercontent.com/107300167/195027736-9b79e57e-5ec1-4fa2-87dd-f9806ecdb655.jpg)
 
 ![룰렛](https://user-images.githubusercontent.com/107300167/192671508-61b4dba5-da4b-4b49-be7a-c253ee0ce5d3.jpg)
 
